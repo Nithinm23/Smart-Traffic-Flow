@@ -2,7 +2,7 @@
 
 ## Overview  
 <p align="justify">
-Smart Traffic Flow is a computer vision-based system designed to optimize traffic light signal timings at junctions. By calculating the number of vehicles at each junction section using YOLOv8 for vehicle detection, the system adjusts signal timings to reduce long waiting times. Connected to an Arduino Uno microcontroller, the system operates the traffic lights (LEDs) from red to green based on real-time vehicle density, improving the overall traffic flow at junctions.
+Smart Traffic Flow is a computer vision-based system designed to optimize traffic light signal timings at junctions. By calculating the number of vehicles at each junction using YOLOv8 for vehicle detection, the system adjusts signal timings to reduce long waiting times. Connected to an Arduino Uno microcontroller, the system operates the traffic lights (LEDs) from red to green based on real-time vehicle density, improving the overall traffic flow at junctions.
 
 ## Abstract  
 <p align="justify">
