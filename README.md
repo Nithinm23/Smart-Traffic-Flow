@@ -23,11 +23,9 @@ Smart Traffic Flow is a simple yet effective solution to address long waiting ti
 
 ## Demo Photos  
 <p align="center">  
-  <img src="#Image-Link-1" width="200" />  
-  <img src="#Image-Link-2" width="200" />  
-  <img src="#Image-Link-3" width="200" />  
-  <img src="#Image-Link-4" width="200" />  
+  <img src="https://github.com/user-attachments/assets/6d5d369e-6ef9-4854-9c97-7aaae29b169f" width="200" />  
 </p>
+
 
 ## Components  
 Components Already Acquired/Owned:  
@@ -44,20 +42,17 @@ Components Already Acquired/Owned:
 </p>
 
 ## Code Base  
-<p align="justify">
 - **Vehicle Detection Code**: YOLOv8-based detection for identifying vehicles in the junction area.  
 - **Vehicle Count Code**: Logic to count the number of vehicles in each section of the junction and calculate the required signal time.  
 - **Traffic Signal Control Code**: Logic to control the switching of traffic lights at the junction based on the vehicle count.  
 
 ## Technologies Used  
-<p align="justify">
 1. **OpenCV**: Open-source computer vision library used for real-time vehicle detection and analysis at junctions.  
 2. **YOLOv8**: Advanced object detection model for accurate and efficient vehicle identification at junctions.  
 3. **Arduino Uno**: The microcontroller used to operate the traffic light signals at the junction based on processed data.  
 4. **NumPy**: Python library for numerical operations to manage vehicle count data and timing calculations at the junction.  
 
 ## Result  
-<p align="justify">
 Smart Traffic Flow successfully demonstrated its ability to optimize traffic signal timings based on real-time vehicle density at junctions. Key results include:  
 - **Accurate Vehicle Detection**: The YOLOv8 model accurately detects vehicles in real-time, allowing for precise vehicle count estimation at junctions.  
 - **Dynamic Signal Timing**: The system adjusts the green light duration based on vehicle density at the junction, reducing unnecessary waiting times.  
