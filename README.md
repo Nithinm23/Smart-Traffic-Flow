@@ -18,12 +18,12 @@ Smart Traffic Flow is a simple yet effective solution to address long waiting ti
 - [Conclusion](#conclusion)  
 
 ## Demo  
-[Demo Video](#Link-to-Demo)  
-<p align="center"><b>Demo</b></p>
 
 ## Demo Photos  
 <p align="center">  
   <img src="https://github.com/user-attachments/assets/6d5d369e-6ef9-4854-9c97-7aaae29b169f" width="200" />  
+  <img src="https://github.com/user-attachments/assets/6d5d369e-6ef9-4854-9c97-7aaae29b169f" width="200" /> 
+ 
 </p>
 
 
@@ -36,10 +36,6 @@ Components Already Acquired/Owned:
 | Camera Module     | 1        | Camera for real-time vehicle detection at the junction |  
 | LEDs (Red, Green) | 2        | LEDs for traffic signal indications at the junction |  
 
-## Hardware  
-<p align="center">  
-  <img src="#Pinout-Diagram-Link" width="300" />  
-</p>
 
 ## Code Base  
 - **Vehicle Detection Code**: YOLOv8-based detection for identifying vehicles in the junction area.  
