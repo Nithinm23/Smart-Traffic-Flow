@@ -22,9 +22,10 @@ Smart Traffic Flow is a simple yet effective solution to address long waiting ti
 ## Demo Photos  
 <p align="center">  
   <img src="https://github.com/user-attachments/assets/6d5d369e-6ef9-4854-9c97-7aaae29b169f" width="200" />  
-  <img src="https://github.com/user-attachments/assets/6d5d369e-6ef9-4854-9c97-7aaae29b169f" width="200" /> 
+  <img src="https://github.com/user-attachments/assets/ada3d6d2-94dc-4108-8703-77452f81fad3" width="200" /> 
  
 </p>
+
 
 
 ## Components  
