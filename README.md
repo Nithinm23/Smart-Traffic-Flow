@@ -26,6 +26,15 @@ Smart Traffic Flow is a simple yet effective solution to address long waiting ti
  
 </p>
 
+# Libraries
+
+| Libraries | Description |
+| :---         | :---      |
+| OpenCV | Handles video capture, image processing, and visualization |
+| NumPy | Used for numerical operations and array manipulation |
+| cvzone | Used for simplifying computer vision tasks and overlays |
+| TensorFlow/Keras | Deep learning framework used for model development |
+
 
 
 ## Components  
